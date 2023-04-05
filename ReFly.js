@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ReFly
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/CHANGGOMARU/retwitter
 // @version      0.1
 // @description  Restore Twitter logo.
 // @author       You
